@@ -34,3 +34,7 @@
 - Add a new line for privacy link for future usage. 
 - Add color to privacy link in style.css
 
+# Deployment
+
+To deploy this project go to https://moniquemeas.github.io/HoriseonMarketing/
+
